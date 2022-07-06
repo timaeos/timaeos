@@ -10,6 +10,8 @@ I'm self-employed at the moment with the intention of working on a personal proj
 A secondary project I'll be working on is an onboarding website to help expose computer users to desktop linux called [linux, btw.](https://linuxbtw.me)
 I'll eventually create a git repository for the website so that others can contribute to it but I've only started the planning stage at the moment.
 
+I'm learning Go, Rust, and Javascript (specifically NodeJS, Vue). My original programming experience was in Java and TCL scripting.
+
 # Contact
 - Mail: timaeos at proton.me
 - Matrix: @timaeos:matrix.nexaeos.io
